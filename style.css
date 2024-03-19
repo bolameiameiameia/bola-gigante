@@ -1,4 +1,13 @@
 *{
   margin: 0;
   podding: 0;
+ }
+body{
+  background: #CCCCCC
+  }
+ p{
+   text-align: center;
+ }
+em stong{
+  color: blue;
 }
