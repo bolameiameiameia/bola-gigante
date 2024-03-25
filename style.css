@@ -5,6 +5,9 @@
 body{
   background: #CCCCCC
   }
+#banner{
+  width:100%;
+}
  h1{
    text-align: center;
    }
@@ -16,3 +19,6 @@ em stong{
   color: blue;
 }
 #missao{
+  font-size:30px;
+}
+
