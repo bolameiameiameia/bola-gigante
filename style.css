@@ -32,7 +32,15 @@ em stong{
   background:FFFFFF;
   podding:20px;
 }
-
+h2{
+  text-aling:center;
+}
+ul{
+  display:inline-block;
+  Vertical-aling:top;
+  width:20%;
+  margin-rigth:15%;
+}
 
 
 
