@@ -12,9 +12,12 @@ body{
   background:#FFFFFF;
   podding:30px;
 }
- h1{
-   text-align: center;
-   }
+ .titulo-principal{
+   padding-left:20px;
+ }
+.titulo-secundario{
+text-align:center;
+]
 p{
   text-align:center ; 
   font-size:20px;
@@ -31,9 +34,6 @@ em stong{
 .beneficios{
   background:FFFFFF;
   podding:20px;
-}
-h2{
-  text-aling:center;
 }
 ul{
   display:inline-block;
