@@ -46,6 +46,14 @@ nav li{
    border-radius: 10px;
 }
 
+.produtos li:houver{
+  border-color: green;
+}
+.produtos li:active{
+  border-color: red;
+}
+.produtos li:hover h2{
+  font si
 .produtos h2 {
    font-size: 30px;
    font-weight: bold;
@@ -59,7 +67,7 @@ nav li{
 
 .produto-preco {
 font-size: 22px;
-Ffont-weleht: bold;
+font-weigth: bold;
 margin-top: 10px;
 
 }
