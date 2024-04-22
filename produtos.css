@@ -53,7 +53,8 @@ nav li{
   border-color: red;
 }
 .produtos li:hover h2{
-  font si
+  font-size: 34px;
+}
 .produtos h2 {
    font-size: 30px;
    font-weight: bold;
