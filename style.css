@@ -21,35 +21,37 @@ body {}
 .titulo-secundario {
   text-align: center;
 
-  ] p {
-    text-align: center;
-    font-size: 20px;
-  }
+}
 
-  em stong {
-    color: green;
-  }
+p {
+  text-align: center;
+  font-size: 20px;
+}
 
-  #missao {
-    font-size: 30px;
-  }
+em stong {
+  color: green;
+}
 
-  .itens {
-    font-style: italic;
-  }
+#missao {
+  font-size: 30px;
+}
 
-  .beneficios {
-    background: FFFFFF;
-    podding: 20px;
-  }
+.itens {
+  font-style: italic;
+}
 
-  ul {
-    display: inline-block;
-    Vertical-aling: top;
-    width: 20%;
-    margin-rigth: 15%;
-  }
+.beneficios {
+  background: FFFFFF;
+  podding: 20px;
+}
 
-  .imagem-beneficios {
-    width: 50%
-  }
+ul {
+  display: inline-block;
+  Vertical-aling: top;
+  width: 20%;
+  margin-rigth: 15%;
+}
+
+.imagem-beneficios {
+  width: 50%
+}
