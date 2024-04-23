@@ -1,8 +1,11 @@
 header {
   background:#999B84;
   padding: 20px 0;
-  background:#999B84;
+  
 }
+ body{
+   background:#999B84;
+ }
 
 .caixa {
   position: relative;
