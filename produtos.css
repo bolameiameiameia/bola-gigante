@@ -1,5 +1,5 @@
 header {
-  background:#5D0C1D;
+  background:#999B84;
   padding: 20px 0;
 }
 
@@ -81,7 +81,7 @@ nav a:hover {
 footer{
   text-align: center;
   background: url("bg.jpg");
-  background:#5D0C1D;
+  background:#999B84;
   padding: 40px 0;
 }
 
