@@ -1,10 +1,10 @@
 header {
-  background:#EFD9D1;
+  background:#497094;
   padding: 20px 0;
   
 }
  body{
-   background:#EFD9D1;
+   background:#497094;
  }
 
 .caixa {
@@ -85,7 +85,7 @@ nav a:hover {
 footer{
   text-align: center;
   background: url("bg.jpg");
-  background:#EFD9D1;
+  background:#497094;
   padding: 40px 0;
 }
 
