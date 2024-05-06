@@ -1,6 +1,6 @@
 * {
   margin: 0;
-  podding: 0;
+  padding: 0;
 }
 
 body {}
@@ -11,7 +11,7 @@ body {}
 
 .principal {
   background: #FFFFFF;
-  podding: 30px;
+  padding: 30px;
 }
 
 .titulo-principal {
@@ -20,15 +20,13 @@ body {}
 
 .titulo-secundario {
   text-align: center;
-
 }
 
 p {
   text-align: center;
   font-size: 20px;
 }
-
-em stong {
+em strong {
   color: green;
 }
 
@@ -42,16 +40,16 @@ em stong {
 
 .beneficios {
   background: FFFFFF;
-  podding: 20px;
+  padding: 20px;
 }
 
 ul {
   display: inline-block;
-  Vertical-aling: top;
+  vertical-aling: top;
   width: 20%;
-  margin-rigth: 15%;
+  margin-right: 15%;
 }
 
 .imagem-beneficios {
-  width: 50%
+  width: 50%;
 }
