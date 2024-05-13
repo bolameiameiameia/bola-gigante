@@ -26,6 +26,31 @@
     <input type="tell" id="telefone" class:"input-padrao" required placeholder="(xx) xxxxx-xxxx">
     <label for="mensagem">Mensagem</label>
     <textarea cols="70" rows-"10" id="mensagem" class="input-padrao"></textarea>
+      <div>
+    <legend> Como prefere o nosso contato?</legend>
+    <label for="radio-email">
+        <input type="radio" name="contato" value="email" id="radio-email">
+        Email
+    </label>
+
+    <label for="radio-telefone">
+        <input type="radio" name="contato" value="telefone" id="radio-telefone"> 
+        Telefone
+    </label>
+
+    <label for="radio-whatsapp">
+        <input type="radio" name="contato" value="whatsapp" id="radio-whatsapp">
+        WhatsApp
+    </label>
+</div>
+      <div>
+    <legend> Qual horário prefere ser atendido?</legend>
+    <select>
+        <option>Manhã</option>
+        <option>Tarde</option>
+        <option>Noite</option>
+    </select>
+</div>
     <input type="submit" Value="Enviar formulario">               
     <input type="text" id="" class="input-padrao">
   </form>
