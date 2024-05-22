@@ -138,7 +138,9 @@ form label, form legend{
   transform: scae(1.2);
 }
 
-body {}
+body {
+  font-family:"montserra",sans-serif;
+}
 
 .banner {
   width: 100%;
