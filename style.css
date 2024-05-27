@@ -192,6 +192,13 @@ td, th {
 	width: 640px;
 	margin: 0 auto;
 	   }	    
+.lista-beneficios{
+	width: 40%;
+	display:inline-block;
+}
+
+.itens{
+	
 .mapa {
     padding: 3em 0;
 }
