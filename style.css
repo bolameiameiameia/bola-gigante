@@ -195,12 +195,23 @@ td, th {
 .lista-beneficios{
 	width: 40%;
 	display:inline-block;
+	vertical-align: top;
 }
 
 .itens{
+	line-heigth:1.5;
+}
+.itens:first-child{
+   fonte-weigth:bold;
+}
+.beneficios{
+   padding: 3em 0;
+   background;#888888;
+	}
 	
 .mapa {
     padding: 3em 0;
+    background:linear-gradient(#FEFEFE, #888888);
 }
 
 .mapa p {
