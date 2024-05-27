@@ -98,8 +98,7 @@ footer {
 }
 
 main {
-	width: 940px;
-	margin: 0 auto;
+	
 }
 
 form {
@@ -156,8 +155,6 @@ td, th {
 	padding: 8px 15px;
 }
 
-
-/* css da página inicial */
 .banner {
 	width:100%;
 }
@@ -191,6 +188,10 @@ td, th {
 	width: 60%;
 }
 
+.conteudos-beneficios{
+	width: 640px;
+	margin: 0 auto;
+	   }	    
 .mapa {
     padding: 3em 0;
 }
